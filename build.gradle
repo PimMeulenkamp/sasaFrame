@@ -1,0 +1,5 @@
+dependencies {
+    implementation files('libs/Sasa-communication.jar')
+    implementation 'org.reflections:reflections:0.10.2'
+}
+jar.enabled = true
